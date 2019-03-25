@@ -1,22 +1,21 @@
-# Vue-todo
-Vue-todo
+# vue-todo
 
-## 1.vue+webpack项目工程配置
+> A Vue.js project
 
-### 1.1 项目基本配置
+## Build Setup
 
-### 1.2 各种静态资源的加载
+``` bash
+# install dependencies
+npm install
 
-### 1.3 webpack-dev-server的配置
+# serve with hot reload at localhost:8080
+npm run dev
 
-## 项目实战
+# build for production with minification
+npm run build
 
-## 项目业务
+# build for production and view the bundle analyzer report
+npm run build --report
+```
 
-## 小计
-
-* Dan的博客
-
-## 最后
-
-* [慕课网地址](https://www.imooc.com/learn/935)
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
